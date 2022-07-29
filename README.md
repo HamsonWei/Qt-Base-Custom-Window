@@ -43,7 +43,7 @@ void showNormal();
 6. Close window
 
 ```
-void close().
+void close();
 ```
 
 # Result
