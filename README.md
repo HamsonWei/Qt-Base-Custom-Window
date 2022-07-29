@@ -4,7 +4,7 @@ A basic desktop application. It can customize the minimize window button, maximi
 一個基本的桌面圖形應用。能夠設定最小化、最大化、關閉按鍵。可以設定窗口圖標，也可以設置窗口標題。另外，最小化窗口不會消失。
 
 # How it work?
-The program runs based on QT. 
+Base on Qt5. 
 
 Here, I hide the original program window button and set the form transparency.
 
@@ -55,5 +55,5 @@ this->close();
 
 ## Tips: 
 
-I only made the buttons to minimize and close the form. You can help yourself.
+I only made the buttons to minimize and close the form. Help yourself.
 
